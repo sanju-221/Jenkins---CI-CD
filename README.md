@@ -25,3 +25,4 @@ echo "deb [signed-by=/etc/apt/keyrings/jenkins-keyring.asc]" \
 sudo apt update
 sudo apt install jenkins
 ```
+To access the Jenkins GUI enable port 8080 in the security group.
